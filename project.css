@@ -1,0 +1,49 @@
+body{
+   background-color: black;
+
+}
+
+   .travel{
+color: white;
+padding-left: 4%;
+   }
+   .quot{
+      color:yellow;
+      padding-left: 4%;
+font-size: 40px;
+margin-top: -6%;
+   }
+   .details{
+      color:white;
+      padding-left: 4%;
+     font-size: 20px;
+     text-align: auto;
+     margin-right: 65%;
+     margin-top: -33%;
+   }
+   .drink{
+ padding: 4%;
+ font-size: 30%;
+ margin-top: -3%;
+ width: 70px;
+
+   }
+   .image{
+      padding-left: 50%;
+   margin-left: 10%;
+   margin-top: -5%;
+   }
+   .ink{
+      color: white;
+      width: 30px;
+height: 30px;
+display: flex;
+padding: 4%;
+gap: 2cm;
+   }
+   .menu{
+color: white;
+padding-left: 95%;
+margin-top: -9%;
+   }
+   
